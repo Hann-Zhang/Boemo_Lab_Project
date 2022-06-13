@@ -1,0 +1,13 @@
+.DS_Store
+plots_barcode*/
+plots_KL_divergence*/
+.ipynb_checkpoints/
+6mer_template.model
+BrdU_plot_barcode*/
+*.png
+index.dnascent
+kl_divergence_barcode*
+output_barcode*
+FAR51982_pass_barcode06_2c730969_0.fast5
+sequencing_summary.txt
+analogue_signals_analysis.ipynb
